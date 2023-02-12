@@ -1,0 +1,9 @@
+*.log
+*.temp
+*.npy
+/data
+/cv-course-models
+/checkpoint
+/.vs
+/img
+/.idea
