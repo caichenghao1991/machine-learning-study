@@ -1,9 +1,12 @@
 *.log
 *.temp
 *.npy
+/.ipynb*
 /data
 /cv-course-models
 /checkpoint
 /.vs
 /img
 /.idea
+/temp
+temp/gmail_filter.py
